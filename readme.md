@@ -1,10 +1,10 @@
 Hospital Patient Records Analysis 
 
-**Overview**
+--**Overview**
 
 This project is an interactive Power BI dashboard developed to analyze patient records from a Hospital Management System. The dashboard focuses on understanding patient flow, departmental referrals, wait times, and patient satisfaction to support hospital operational decision-making.
 
-**Business Use Case**
+--**Business Use Case**
 
 Hospitals require timely insights into patient admissions, department performance, and patient experience. This dashboard enables stakeholders to:
 
@@ -18,7 +18,7 @@ Evaluate patient satisfaction scores
 
 Identify operational bottlenecks
 
-**Dataset Description**
+--**Dataset Description**
 The dataset contains hospital patient records with the following fields:
 
 Patient Id
@@ -47,7 +47,7 @@ Patients CM
 
 
 
-**Key Metrics & KPIs**
+--**Key Metrics & KPIs**
 
 The dashboard includes key performance indicators such as:
 
@@ -63,7 +63,7 @@ Department-wise Patient Count
 
 Admission vs Non-Admission Ratio
 
-**Features**
+--**Features**
 
 Interactive slicers for admission date, department, and gender
 
@@ -79,7 +79,7 @@ Data cleaning and transformation using Power Query
 
 Calculated measures using DAX
 
-**Tools & Technologies**
+--**Tools & Technologies**
 
 Power BI Desktop
 
